@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a . .. 1-more, 2-intense, .earn/, .fiverre/, growth/, higher/, join_me/
+ls -map
