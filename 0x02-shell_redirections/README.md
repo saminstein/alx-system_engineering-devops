@@ -21,4 +21,8 @@
 - 19-AZ
 - 20-hiago
 - 21-reverse
-- 22-users_and_homes
+- 22-users_and_home
+- 100-empty_casks
+- 101-gifs
+- 102-acrostic
+- 103-the_biggest_fans
