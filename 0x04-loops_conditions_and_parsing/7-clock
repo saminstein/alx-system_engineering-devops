@@ -13,7 +13,7 @@ do
 	do
 		echo "$minutes"
 
-		(( minutes++))
+		minutes=$(( minutes + 1))
 	done
 	(( hour++ ))
 done
